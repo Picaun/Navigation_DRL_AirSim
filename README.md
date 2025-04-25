@@ -1,6 +1,7 @@
 # Navigation_DRL_UAV 项目说明文档
 
 ## 项目概述
+修改自Github项目：https://github.com/heleidsn/UAV_Navigation_DRL_AirSim
 
 Navigation_DRL_UAV  是一个基于深度强化学习（DRL）的无人机导航平台，用于在复杂未知环境中训练无人机导航策略。该平台基于 AirSim 和 Stable-Baselines3，包含多旋翼和固定翼无人机的运动学模型，并提供多种 UE4 环境用于训练和测试。
 
