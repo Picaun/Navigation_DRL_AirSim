@@ -87,7 +87,7 @@ Now we provide 3 training envrionment and 3 dynamics.
 
 ### 根目录文件
 
-- **requirements.yml**：项目依赖的 Python 包和环境配置，使用 conda 创建环境。
+- **requirements.txt**：项目依赖的 Python 包和环境配置。
 - **README.md**：项目的详细说明文档，包含安装、配置和使用说明。
 
 ### 主要目录
