@@ -15,7 +15,7 @@ Navigation_DRL_UAV  是一个基于深度强化学习（DRL）的无人机导航
 
 2. Install CUDA and PyTorch (Win10 or Win11)
 
-- Download [CUDA11.6](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)（先不装，如果有cuda兼容问题再装此版本）
+- Download [CUDA11.6](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 - `pip3 install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio===0.10.1+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html`
 - You can use `tools/test/torch_gpu_cpu_test.py` to test your PyTorch and CUDA.
 
