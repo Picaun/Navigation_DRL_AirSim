@@ -24,7 +24,7 @@ def main():
     # select your config file here
     # config_file = 'configs/config_SimpleAvoid_SimpleMultirotor.ini'
     # config_file = 'configs/config_fixedwing.ini'
-    config_file = 'configs/config_Maze_SimpleMultirotor_2D.ini'
+    config_file = 'configs/config_NH_center_Multirotor_3D.ini'
 
     # 1. Create the qt thread
     app = QtWidgets.QApplication(sys.argv)
